@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ロマンチシズム",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-15T13:07:32.265563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロマンチシズム",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_ロマンチシズム_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロマンチシズム (浪漫主义)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_ロマンチシズム_(浪漫主义)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロマンチシズム - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ロマンチシズム_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロマンチシズム",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ロマンチシズム_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロマンチシズム - Romanticism",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_ロマンチシズム_-_Romanticism_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロマンチシズム",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_ロマンチシズム_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロマンチシズム",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_ロマンチシズム_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mrs. GREEN APPLE - ロマンチシズム",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_Mrs._GREEN_APPLE_-_ロマンチシズム_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロマンチシズム - Romanticism",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_ロマンチシズム_-_Romanticism_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロマンチシズム - Romanticism",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_ロマンチシズム_-_Romanticism_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロマンチシズム",
+      "artist": "Mrs․ GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_ロマンチシズム_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロマンチシズム",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ロマンチシズム_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
